@@ -1,0 +1,32 @@
+h1 {
+    border: 3px solid green;
+  }
+
+.dashed {border: 3px dashed green;
+         padding:1em;
+         margin:1em;
+        /* display: block;*/
+}
+
+.dash {border:3px dashed blue;
+       padding:1em;
+       margin:1em;
+       display:inline;
+       color:red;
+}
+
+.dash2 {border:3px dashed red;
+    padding:1em;
+    margin:1em;
+    display:inline-block;
+}
+
+
+.block {display: block;
+}
+
+.inline {display: inline;
+}
+
+.inlineblock {display: inline-block;
+}

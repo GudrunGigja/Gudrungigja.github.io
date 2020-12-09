@@ -1,0 +1,39 @@
+body {
+	background-color:pink;
+	max-width: 50em;
+	font-family:"trebuchet MS", helvetica, arial, sans-serif;
+	margin: 1em auto;
+	padding: 1em;
+	border:4px solid red;
+
+}
+h1 {
+	color:purple;
+	text-align: center;
+	font-variant: small-caps;
+	background-color:powderblue;
+}
+h2 {
+	background-color:#f08080;
+}
+a {
+	color: green;
+	font-style: italic;
+}
+a:hover {
+	background:purple;
+}
+.menu {
+	background-color:#180162;
+}
+.menu a {
+	display: block;
+	color:#eef;
+	text-decoration: none;
+}
+.menu a:hover {
+	background-color:#f00;
+}
+.menu a:active {
+	background-color:#ff0;
+}
