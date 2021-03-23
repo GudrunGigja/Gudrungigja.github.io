@@ -1,0 +1,32 @@
+body {
+    padding-left:10px;
+}
+
+.rautt{color:red;
+}
+.green{color: green;
+}
+
+.blue{border: dashed 5px;
+    color: blue;
+    padding: 20px;
+}
+
+
+div {
+     margin-top: 70px;
+     margin-bottom: 70px;
+    padding: 70px;    
+}
+
+h1 {
+    border: 3px solid green;
+  }
+  
+
+.div2{
+    border: 4px solid red;
+    padding: 50px;
+   
+}
+
